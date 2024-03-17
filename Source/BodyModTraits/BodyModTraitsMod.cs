@@ -17,11 +17,10 @@ internal class BodyModTraitsMod : Mod
     {
         instance = this;
         currentVersion =
-            VersionFromManifest.GetVersionFromModMetaData(
-                ModLister.GetActiveModWithIdentifier("Mlie.EMTattoosAndPiercings"));
+            VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
 
-    private BodyModTraitsSettings Settings
+    public BodyModTraitsSettings Settings
     {
         get
         {

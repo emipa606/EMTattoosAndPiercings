@@ -34,7 +34,7 @@ public static class Internal
             select hediff;
         foreach (var item in enumerable)
         {
-            item.isBad = LoadedModManager.GetMod<BodyModTraitsMod>().GetSettings<BodyModTraitsSettings>().IsBad;
+            item.isBad = BodyModTraitsMod.instance.Settings.IsBad;
         }
     }
 }
