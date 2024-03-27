@@ -5,12 +5,17 @@
     <soundWorking>Recipe_Surgery</soundWorking>
     <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
     <dontShowIfAnyIngredientMissing>True</dontShowIfAnyIngredientMissing>
-    <workSkill>Medicine</workSkill>
+    <workSkill>Artistic</workSkill>
     <workSkillLearnFactor>16</workSkillLearnFactor>
     <surgerySuccessChanceFactor>5</surgerySuccessChanceFactor>
+    <minAllowedAge>3</minAllowedAge>
+    <anesthetize>false</anesthetize>
     <recipeUsers>
       <li>Human</li>
     </recipeUsers>
+    <incompatibleWithHediffTags>
+      <li>Tattoos</li>
+    </incompatibleWithHediffTags>
   </RecipeDef>
   <!-- cobra / speed tattoo -->
   <RecipeDef ParentName="EMSurgery">

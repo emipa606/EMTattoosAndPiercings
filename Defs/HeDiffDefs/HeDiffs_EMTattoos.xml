@@ -11,13 +11,7 @@
     <defName>EMSpeedSma</defName>
     <label>Cobra tattoo (small)</label>
     <description>Cobra tattoo (small)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -38,13 +32,7 @@
     <defName>EMSpeedMed</defName>
     <label>Cobra tattoo (medium)</label>
     <description>Cobra tattoo (medium)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -65,13 +53,7 @@
     <defName>EMSpeedBig</defName>
     <label>Cobra tattoo (large)</label>
     <description>Cobra tattoo (large)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -93,13 +75,7 @@
     <defName>EMPainSma</defName>
     <label>Thrumbo tattoo (small)</label>
     <description>Thrumbo tattoo (small)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -116,12 +92,7 @@
     <defName>EMPainMed</defName>
     <label>Thrumbo tattoo (medium)</label>
     <description>Thrumbo tattoo (medium)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--	<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -156,13 +127,7 @@
     <defName>EMManipSma</defName>
     <label>Monkey tattoo (small)</label>
     <description>Monkey tattoo (small)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -183,13 +148,7 @@
     <defName>EMManipMed</defName>
     <label>Monkey tattoo (medium)</label>
     <description>Monkey tattoo (medium)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -210,13 +169,7 @@
     <defName>EMManipBig</defName>
     <label>Monkey tattoo (large)</label>
     <description>Monkey tattoo (large)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -238,13 +191,7 @@
     <defName>EMConSma</defName>
     <label>Mechanoid tattoo (small)</label>
     <description>Mechanoid tattoo (small)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -265,13 +212,7 @@
     <defName>EMConMed</defName>
     <label>Mechanoid tattoo (medium)</label>
     <description>Mechanoid tattoo (medium)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
@@ -292,13 +233,7 @@
     <defName>EMConBig</defName>
     <label>Mechanoid tattoo (large)</label>
     <description>Mechanoid tattoo (large)</description>
-    <!--
-		<spawnThingOnRemoved>EMLeg</spawnThingOnRemoved>
-	-->
     <addedPartProps>
-      <!--
-			<solid>true</solid>
-	-->
       <partEfficiency>1.2</partEfficiency>
     </addedPartProps>
     <stages>
