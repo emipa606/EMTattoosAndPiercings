@@ -3,12 +3,12 @@
   <RecipeDef Abstract="True" Name="EMSurgery">
     <effectWorking>Surgery</effectWorking>
     <soundWorking>Recipe_Surgery</soundWorking>
-    <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <dontShowIfAnyIngredientMissing>True</dontShowIfAnyIngredientMissing>
     <workSkill>Artistic</workSkill>
     <workSkillLearnFactor>16</workSkillLearnFactor>
     <surgerySuccessChanceFactor>5</surgerySuccessChanceFactor>
-    <minAllowedAge>3</minAllowedAge>
+    <minAllowedAge>7</minAllowedAge>
     <anesthetize>false</anesthetize>
     <recipeUsers>
       <li>Human</li>
@@ -63,7 +63,7 @@
     <description>Tattoo cobra design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing snake design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -102,7 +102,7 @@
     <description>Tattoo cobra design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing snake design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -181,7 +181,7 @@
     <description>Tattoo thrumbo design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing thrumbo design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -220,7 +220,7 @@
     <description>Tattoo thrumbo design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing thrumbo design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -299,7 +299,7 @@
     <description>Tattoo monkey design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing monkey design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -338,7 +338,7 @@
     <description>Tattoo monkey design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing monkey design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -417,7 +417,7 @@
     <description>Tattoo mechanoid design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing mechanoid design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -456,7 +456,7 @@
     <description>Tattoo mechanoid design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing mechanoid design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -535,7 +535,7 @@
     <description>Tattoo muffalo design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing muffalo design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -574,7 +574,7 @@
     <description>Tattoo muffalo design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing muffalo design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -653,7 +653,7 @@
     <description>Tattoo insectoid design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing insectoid design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -692,7 +692,7 @@
     <description>Tattoo insectoid design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing insectoid design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -771,7 +771,7 @@
     <description>Tattoo rose design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing rose design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -810,7 +810,7 @@
     <description>Tattoo rose design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing rose design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -889,7 +889,7 @@
     <description>Tattoo sun design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing sun design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>3000</workAmount>
     <ingredients>
       <li>
         <filter>
@@ -928,7 +928,7 @@
     <description>Tattoo sun design</description>
     <workerClass>Recipe_InstallImplant</workerClass>
     <jobString>Tattooing sun design</jobString>
-    <workAmount>1500</workAmount>
+    <workAmount>5000</workAmount>
     <ingredients>
       <li>
         <filter>
