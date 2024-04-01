@@ -5,15 +5,25 @@
     <hediffClass>Hediff_Implant</hediffClass>
     <defaultLabelColor>(0.3, 0.4, 0.8)</defaultLabelColor>
     <isBad>false</isBad>
+    <priceImpact>true</priceImpact>
+    <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+    <allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
+    <tags><li>Tattoos</li></tags>
+    <minSeverity>0.001</minSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.5</severityPerDay>
+      </li>
+    </comps>
+    <addedPartProps>
+      <partEfficiency>1.0</partEfficiency>
+    </addedPartProps>
   </HediffDef>
   <!-- Speed / snake tattoos -->
   <HediffDef ParentName="AddedBodyPartBase_EM">
     <defName>EMSpeedSma</defName>
     <label>Cobra tattoo (small)</label>
     <description>Cobra tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -32,9 +42,6 @@
     <defName>EMSpeedMed</defName>
     <label>Cobra tattoo (medium)</label>
     <description>Cobra tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -53,9 +60,6 @@
     <defName>EMSpeedBig</defName>
     <label>Cobra tattoo (large)</label>
     <description>Cobra tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -75,9 +79,6 @@
     <defName>EMPainSma</defName>
     <label>Thrumbo tattoo (small)</label>
     <description>Thrumbo tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <painFactor>0.9</painFactor>
@@ -92,9 +93,6 @@
     <defName>EMPainMed</defName>
     <label>Thrumbo tattoo (medium)</label>
     <description>Thrumbo tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <painFactor>0.85</painFactor>
@@ -109,9 +107,6 @@
     <defName>EMPainBig</defName>
     <label>Thrumbo tattoo (large)</label>
     <description>Thrumbo tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <painFactor>0.8</painFactor>
@@ -127,9 +122,6 @@
     <defName>EMManipSma</defName>
     <label>Monkey tattoo (small)</label>
     <description>Monkey tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -148,9 +140,6 @@
     <defName>EMManipMed</defName>
     <label>Monkey tattoo (medium)</label>
     <description>Monkey tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -169,9 +158,6 @@
     <defName>EMManipBig</defName>
     <label>Monkey tattoo (large)</label>
     <description>Monkey tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -191,9 +177,6 @@
     <defName>EMConSma</defName>
     <label>Mechanoid tattoo (small)</label>
     <description>Mechanoid tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -212,9 +195,6 @@
     <defName>EMConMed</defName>
     <label>Mechanoid tattoo (medium)</label>
     <description>Mechanoid tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -233,9 +213,6 @@
     <defName>EMConBig</defName>
     <label>Mechanoid tattoo (large)</label>
     <description>Mechanoid tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <capMods>
@@ -255,9 +232,6 @@
     <defName>EMMenSma</defName>
     <label>Muffalo tattoo (small)</label>
     <description>Muffalo tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -276,9 +250,6 @@
     <defName>EMMenMed</defName>
     <label>Muffalo tattoo (medium)</label>
     <description>Muffalo tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -297,9 +268,6 @@
     <defName>EMMenBig</defName>
     <label>Muffalo tattoo (large)</label>
     <description>Muffalo tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -319,9 +287,6 @@
     <defName>EMBldSma</defName>
     <label>Insectoid tattoo (small)</label>
     <description>Insectoid tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -340,9 +305,6 @@
     <defName>EMBldMed</defName>
     <label>Insectoid tattoo (medium)</label>
     <description>Insectoid tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -361,9 +323,6 @@
     <defName>EMBldBig</defName>
     <label>Insectoid tattoo (large)</label>
     <description>Insectoid tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -383,9 +342,6 @@
     <defName>EMMelSma</defName>
     <label>Rose tattoo (small)</label>
     <description>Rose tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <painFactor>1.05</painFactor>
@@ -399,9 +355,6 @@
     <defName>EMMelMed</defName>
     <label>Rose tattoo (medium)</label>
     <description>Rose tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <painFactor>1.1</painFactor>
@@ -415,9 +368,6 @@
     <defName>EMMelBig</defName>
     <label>Rose tattoo (large)</label>
     <description>Rose tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <painFactor>1.2</painFactor>
@@ -432,9 +382,6 @@
     <defName>EMShtSma</defName>
     <label>Sun tattoo (small)</label>
     <description>Sun tattoo (small)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -448,9 +395,6 @@
     <defName>EMShtMed</defName>
     <label>Sun tattoo (medium)</label>
     <description>Sun tattoo (medium)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
@@ -464,9 +408,6 @@
     <defName>EMShtBig</defName>
     <label>Sun tattoo (large)</label>
     <description>Sun tattoo (large)</description>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
     <stages>
       <li>
         <statOffsets>
