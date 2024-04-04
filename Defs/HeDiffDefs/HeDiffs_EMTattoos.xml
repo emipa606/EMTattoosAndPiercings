@@ -3,7 +3,6 @@
   <!-- Added body parts -->
   <HediffDef Name="AddedBodyPartBase_EM" Abstract="True">
     <hediffClass>Hediff_Implant</hediffClass>
-    <defaultLabelColor>(0.3, 0.4, 0.8)</defaultLabelColor>
     <isBad>false</isBad>
     <priceImpact>true</priceImpact>
     <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
@@ -24,17 +23,27 @@
     <defName>EMSpeedSma</defName>
     <label>Cobra tattoo (small)</label>
     <description>Cobra tattoo (small)</description>
+    <defaultLabelColor>(0.67, 0.67, 0.03)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Moving</capacity>
             <offset>0.05</offset>
           </li>
         </capMods>
-        <statOffsets>
-          <EatingSpeed>-0.1</EatingSpeed>
-        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -42,17 +51,27 @@
     <defName>EMSpeedMed</defName>
     <label>Cobra tattoo (medium)</label>
     <description>Cobra tattoo (medium)</description>
+    <defaultLabelColor>(0.67, 0.67, 0.03)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Moving</capacity>
             <offset>0.1</offset>
           </li>
         </capMods>
-        <statOffsets>
-          <EatingSpeed>-0.1</EatingSpeed>
-        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -60,17 +79,27 @@
     <defName>EMSpeedBig</defName>
     <label>Cobra tattoo (large)</label>
     <description>Cobra tattoo (large)</description>
+    <defaultLabelColor>(0.67, 0.67, 0.03)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Moving</capacity>
             <offset>0.15</offset>
           </li>
         </capMods>
-        <statOffsets>
-          <EatingSpeed>-0.1</EatingSpeed>
-        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -79,13 +108,22 @@
     <defName>EMPainSma</defName>
     <label>Thrumbo tattoo (small)</label>
     <description>Thrumbo tattoo (small)</description>
+    <defaultLabelColor>(0.61, 0.74, 0.74)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
-        <painFactor>0.9</painFactor>
-        <statOffsets>
-          <ComfyTemperatureMax>-2</ComfyTemperatureMax>
-          <ComfyTemperatureMin>1</ComfyTemperatureMin>
-        </statOffsets>
+        <!-- Healed -->
+        <painFactor>0.95</painFactor>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -93,13 +131,22 @@
     <defName>EMPainMed</defName>
     <label>Thrumbo tattoo (medium)</label>
     <description>Thrumbo tattoo (medium)</description>
+    <defaultLabelColor>(0.61, 0.74, 0.74)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
+      <!-- Healed -->
       <li>
         <painFactor>0.85</painFactor>
-        <statOffsets>
-          <ComfyTemperatureMax>-2</ComfyTemperatureMax>
-          <ComfyTemperatureMin>1</ComfyTemperatureMin>
-        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -107,13 +154,22 @@
     <defName>EMPainBig</defName>
     <label>Thrumbo tattoo (large)</label>
     <description>Thrumbo tattoo (large)</description>
+    <defaultLabelColor>(0.61, 0.74, 0.74)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
+      <!-- Healed -->
       <li>
         <painFactor>0.8</painFactor>
-        <statOffsets>
-          <ComfyTemperatureMax>-3</ComfyTemperatureMax>
-          <ComfyTemperatureMin>1</ComfyTemperatureMin>
-        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -122,8 +178,12 @@
     <defName>EMManipSma</defName>
     <label>Monkey tattoo (small)</label>
     <description>Monkey tattoo (small)</description>
+    <defaultLabelColor>(0.42, 0.69, 0.39)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
+      <!-- Healed -->
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Manipulation</capacity>
@@ -131,8 +191,18 @@
           </li>
         </capMods>
         <statOffsets>
-          <PsychicSensitivity>0.1</PsychicSensitivity>
+          <PsychicSensitivity>0.01</PsychicSensitivity>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -140,8 +210,11 @@
     <defName>EMManipMed</defName>
     <label>Monkey tattoo (medium)</label>
     <description>Monkey tattoo (medium)</description>
+    <defaultLabelColor>(0.42, 0.69, 0.39)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Manipulation</capacity>
@@ -149,8 +222,18 @@
           </li>
         </capMods>
         <statOffsets>
-          <PsychicSensitivity>0.1</PsychicSensitivity>
+          <PsychicSensitivity>0.02</PsychicSensitivity>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -158,8 +241,11 @@
     <defName>EMManipBig</defName>
     <label>Monkey tattoo (large)</label>
     <description>Monkey tattoo (large)</description>
+    <defaultLabelColor>(0.42, 0.69, 0.39)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Manipulation</capacity>
@@ -167,8 +253,18 @@
           </li>
         </capMods>
         <statOffsets>
-          <PsychicSensitivity>0.1</PsychicSensitivity>
+          <PsychicSensitivity>0.03</PsychicSensitivity>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -177,8 +273,11 @@
     <defName>EMConSma</defName>
     <label>Mechanoid tattoo (small)</label>
     <description>Mechanoid tattoo (small)</description>
+    <defaultLabelColor>(0.68, 0.28, 0.15)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Consciousness</capacity>
@@ -186,8 +285,18 @@
           </li>
         </capMods>
         <statOffsets>
-          <SocialImpact>-0.1</SocialImpact>
+          <SocialImpact>-0.05</SocialImpact>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -195,8 +304,11 @@
     <defName>EMConMed</defName>
     <label>Mechanoid tattoo (medium)</label>
     <description>Mechanoid tattoo (medium)</description>
+    <defaultLabelColor>(0.68, 0.28, 0.15)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Consciousness</capacity>
@@ -207,14 +319,27 @@
           <SocialImpact>-0.1</SocialImpact>
         </statOffsets>
       </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
+      </li>
     </stages>
   </HediffDef>
   <HediffDef ParentName="AddedBodyPartBase_EM">
     <defName>EMConBig</defName>
     <label>Mechanoid tattoo (large)</label>
     <description>Mechanoid tattoo (large)</description>
+    <defaultLabelColor>(0.68, 0.28, 0.15)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>Consciousness</capacity>
@@ -225,6 +350,16 @@
           <SocialImpact>-0.2</SocialImpact>
         </statOffsets>
       </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
+      </li>
     </stages>
   </HediffDef>
   <!-- mental break / muffalo tattoos -->
@@ -232,17 +367,24 @@
     <defName>EMMenSma</defName>
     <label>Muffalo tattoo (small)</label>
     <description>Muffalo tattoo (small)</description>
+    <defaultLabelColor>(0.31, 0.35, 0.53)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <statOffsets>
           <MentalBreakThreshold>-0.025</MentalBreakThreshold>
         </statOffsets>
-        <capMods>
-          <li>
-            <capacity>Moving</capacity>
-            <offset>-0.01</offset>
-          </li>
-        </capMods>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -250,17 +392,24 @@
     <defName>EMMenMed</defName>
     <label>Muffalo tattoo (medium)</label>
     <description>Muffalo tattoo (medium)</description>
+    <defaultLabelColor>(0.31, 0.35, 0.53)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <statOffsets>
           <MentalBreakThreshold>-0.05</MentalBreakThreshold>
         </statOffsets>
-        <capMods>
-          <li>
-            <capacity>Moving</capacity>
-            <offset>-0.03</offset>
-          </li>
-        </capMods>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -268,17 +417,24 @@
     <defName>EMMenBig</defName>
     <label>Muffalo tattoo (large)</label>
     <description>Muffalo tattoo (large)</description>
+    <defaultLabelColor>(0.31, 0.35, 0.53)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <statOffsets>
           <MentalBreakThreshold>-0.075</MentalBreakThreshold>
         </statOffsets>
-        <capMods>
-          <li>
-            <capacity>Moving</capacity>
-            <offset>-0.05</offset>
-          </li>
-        </capMods>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -287,17 +443,38 @@
     <defName>EMBldSma</defName>
     <label>Insectoid tattoo (small)</label>
     <description>Insectoid tattoo (small)</description>
+    <defaultLabelColor>(0.44, 0.74, 0.41)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
-        <statOffsets>
-          <GlobalLearningFactor>-0.05</GlobalLearningFactor>
-        </statOffsets>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>BloodPumping</capacity>
             <offset>0.05</offset>
           </li>
+          <li>
+            <capacity>Metabolism</capacity>
+            <offset>0.025</offset>
+          </li>
+          <li>
+            <capacity>BloodFiltration</capacity>
+            <offset>0.1</offset>
+          </li>
         </capMods>
+        <statOffsets>
+          <SocialImpact>-0.05</SocialImpact>
+        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -305,17 +482,38 @@
     <defName>EMBldMed</defName>
     <label>Insectoid tattoo (medium)</label>
     <description>Insectoid tattoo (medium)</description>
+    <defaultLabelColor>(0.44, 0.74, 0.41)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
-        <statOffsets>
-          <GlobalLearningFactor>-0.075</GlobalLearningFactor>
-        </statOffsets>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>BloodPumping</capacity>
             <offset>0.125</offset>
           </li>
+          <li>
+            <capacity>Metabolism</capacity>
+            <offset>0.05</offset>
+          </li>
+          <li>
+            <capacity>BloodFiltration</capacity>
+            <offset>0.2</offset>
+          </li>
         </capMods>
+        <statOffsets>
+          <SocialImpact>-0.1</SocialImpact>
+        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -323,17 +521,38 @@
     <defName>EMBldBig</defName>
     <label>Insectoid tattoo (large)</label>
     <description>Insectoid tattoo (large)</description>
+    <defaultLabelColor>(0.44, 0.74, 0.41)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
-        <statOffsets>
-          <GlobalLearningFactor>-0.1</GlobalLearningFactor>
-        </statOffsets>
+        <!-- Healed -->
         <capMods>
           <li>
             <capacity>BloodPumping</capacity>
             <offset>0.175</offset>
           </li>
+          <li>
+            <capacity>Metabolism</capacity>
+            <offset>0.15</offset>
+          </li>
+          <li>
+            <capacity>BloodFiltration</capacity>
+            <offset>0.35</offset>
+          </li>
         </capMods>
+        <statOffsets>
+          <SocialImpact>-0.2</SocialImpact>
+        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -342,12 +561,26 @@
     <defName>EMMelSma</defName>
     <label>Rose tattoo (small)</label>
     <description>Rose tattoo (small)</description>
+    <defaultLabelColor>(0.55, 0.34, 0.69)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
-        <painFactor>1.05</painFactor>
+        <!-- Healed -->
         <statOffsets>
           <MeleeHitChance>0.7</MeleeHitChance>
+          <SocialImpact>0.1</SocialImpact>
+          <TradePriceImprovement>0.05</TradePriceImprovement>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -355,12 +588,26 @@
     <defName>EMMelMed</defName>
     <label>Rose tattoo (medium)</label>
     <description>Rose tattoo (medium)</description>
+    <defaultLabelColor>(0.55, 0.34, 0.69)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
-        <painFactor>1.1</painFactor>
+        <!-- Healed -->
         <statOffsets>
           <MeleeHitChance>1.1</MeleeHitChance>
+          <SocialImpact>0.2</SocialImpact>
+          <TradePriceImprovement>0.1</TradePriceImprovement>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -368,12 +615,26 @@
     <defName>EMMelBig</defName>
     <label>Rose tattoo (large)</label>
     <description>Rose tattoo (large)</description>
+    <defaultLabelColor>(0.55, 0.34, 0.69)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
-        <painFactor>1.2</painFactor>
+        <!-- Healed -->
         <statOffsets>
           <MeleeHitChance>1.5</MeleeHitChance>
+          <SocialImpact>0.2</SocialImpact>
+          <TradePriceImprovement>0.2</TradePriceImprovement>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -382,12 +643,27 @@
     <defName>EMShtSma</defName>
     <label>Sun tattoo (small)</label>
     <description>Sun tattoo (small)</description>
+    <defaultLabelColor>(0.78, 0.34, 0.2)</defaultLabelColor>
+    <initialSeverity>2</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <statOffsets>
           <ShootingAccuracyPawn>0.7</ShootingAccuracyPawn>
-          <WorkSpeedGlobal>-0.05</WorkSpeedGlobal>
+          <WorkSpeedGlobal>-0.03</WorkSpeedGlobal>
+          <NegotiationAbility>0.035</NegotiationAbility>
+          <SuppressionPower>0.015</SuppressionPower>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.02</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>1.0</minSeverity>
+        <painOffset>0.05</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -395,12 +671,27 @@
     <defName>EMShtMed</defName>
     <label>Sun tattoo (medium)</label>
     <description>Sun tattoo (medium)</description>
+    <defaultLabelColor>(0.78, 0.34, 0.2)</defaultLabelColor>
+    <initialSeverity>3.5</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <statOffsets>
           <ShootingAccuracyPawn>1.1</ShootingAccuracyPawn>
-          <WorkSpeedGlobal>-0.1</WorkSpeedGlobal>
+          <WorkSpeedGlobal>-0.05</WorkSpeedGlobal>
+          <NegotiationAbility>0.07</NegotiationAbility>
+          <SuppressionPower>0.03</SuppressionPower>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.03</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.1</painOffset>
       </li>
     </stages>
   </HediffDef>
@@ -408,12 +699,27 @@
     <defName>EMShtBig</defName>
     <label>Sun tattoo (large)</label>
     <description>Sun tattoo (large)</description>
+    <defaultLabelColor>(0.78, 0.34, 0.2)</defaultLabelColor>
+    <initialSeverity>7</initialSeverity>
     <stages>
       <li>
+        <!-- Healed -->
         <statOffsets>
           <ShootingAccuracyPawn>1.5</ShootingAccuracyPawn>
-          <WorkSpeedGlobal>-0.15</WorkSpeedGlobal>
+          <WorkSpeedGlobal>-0.1</WorkSpeedGlobal>
+          <NegotiationAbility>0.14</NegotiationAbility>
+          <SuppressionPower>0.06</SuppressionPower>
         </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.1</minSeverity>
+        <painOffset>0.05</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>5</minSeverity>
+        <painOffset>0.15</painOffset>
       </li>
     </stages>
   </HediffDef>
