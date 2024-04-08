@@ -54,6 +54,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMSpeedSma</addsHediff>
   </RecipeDef>
@@ -172,6 +173,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMPainSma</addsHediff>
   </RecipeDef>
@@ -290,6 +292,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMManipSma</addsHediff>
   </RecipeDef>
@@ -408,6 +411,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMConSma</addsHediff>
   </RecipeDef>
@@ -526,6 +530,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMMenSma</addsHediff>
   </RecipeDef>
@@ -644,6 +649,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMBldSma</addsHediff>
   </RecipeDef>
@@ -762,6 +768,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMMelSma</addsHediff>
   </RecipeDef>
@@ -880,6 +887,7 @@
     <appliedOnFixedBodyParts>
       <li>Foot</li>
       <li>Hand</li>
+      <li>Neck</li>
     </appliedOnFixedBodyParts>
     <addsHediff>EMShtSma</addsHediff>
   </RecipeDef>
