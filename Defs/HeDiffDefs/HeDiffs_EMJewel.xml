@@ -3,8 +3,14 @@
   <!-- Added body parts -->
   <HediffDef Name="JewelBase_EM" Abstract="True">
     <hediffClass>Hediff_Implant</hediffClass>
-    <defaultLabelColor>(0.3, 0.4, 0.8)</defaultLabelColor>
     <isBad>false</isBad>
+    <priceImpact>true</priceImpact>
+    <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+    <allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
+    <tags><li>Piercing</li></tags>
+    <addedPartProps>
+      <partEfficiency>1.0</partEfficiency>
+    </addedPartProps>
   </HediffDef>
   <!-- earrings -->
   <HediffDef ParentName="JewelBase_EM">
@@ -12,9 +18,7 @@
     <label>Silver hoop earring</label>
     <description>Silver hoop earring</description>
     <spawnThingOnRemoved>I_EMSilEar</spawnThingOnRemoved>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
+    <defaultLabelColor>(0.7, 0.7, 0.7)</defaultLabelColor>
     <stages>
       <li>
         <statOffsets>
@@ -29,9 +33,7 @@
     <label>Gold hoop earring</label>
     <description>Gold hoop earring</description>
     <spawnThingOnRemoved>I_EMGolEar</spawnThingOnRemoved>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
+    <defaultLabelColor>(0.9, 0.9, 0.2)</defaultLabelColor>
     <stages>
       <li>
         <statOffsets>
@@ -46,9 +48,7 @@
     <label>Silver nose ring</label>
     <description>Silver nose ring</description>
     <spawnThingOnRemoved>I_EMSilNose</spawnThingOnRemoved>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
+    <defaultLabelColor>(0.7, 0.7, 0.7)</defaultLabelColor>
     <stages>
       <li>
         <statOffsets>
@@ -63,9 +63,7 @@
     <label>Gold nose ring</label>
     <description>Gold nose ring</description>
     <spawnThingOnRemoved>I_EMGolNose</spawnThingOnRemoved>
-    <addedPartProps>
-      <partEfficiency>1.2</partEfficiency>
-    </addedPartProps>
+    <defaultLabelColor>(0.9, 0.9, 0.2)</defaultLabelColor>
     <stages>
       <li>
         <statOffsets>

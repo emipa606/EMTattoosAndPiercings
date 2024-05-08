@@ -8,9 +8,14 @@
     <workSkillLearnFactor>2</workSkillLearnFactor>
     <surgerySuccessChanceFactor>99999</surgerySuccessChanceFactor>
     <dontShowIfAnyIngredientMissing>True</dontShowIfAnyIngredientMissing>
+    <minAllowedAge>7</minAllowedAge>
+    <anesthetize>false</anesthetize>
     <recipeUsers>
       <li>Human</li>
     </recipeUsers>
+    <incompatibleWithHediffTags>
+      <li>Piercings</li>
+    </incompatibleWithHediffTags>
   </RecipeDef>
   <!-- earrings -->
   <RecipeDef ParentName="EMPiercing">
