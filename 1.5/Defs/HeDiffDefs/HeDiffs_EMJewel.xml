@@ -7,7 +7,9 @@
     <priceImpact>true</priceImpact>
     <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
     <allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
-    <tags><li>Piercing</li></tags>
+    <tags>
+      <li>Piercing</li>
+    </tags>
     <addedPartProps>
       <partEfficiency>1.0</partEfficiency>
     </addedPartProps>
