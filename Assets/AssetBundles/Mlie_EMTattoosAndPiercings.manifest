@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3394738415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 475bad66e2b454faf123371c592f5c62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 475bad66e2b454faf123371c592f5c62
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentPurple.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooLime.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooYellow.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Jewel/SilverBelt.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentOrange.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Jewel/SilverNecklace.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentYellow.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooPurple.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentTurquoise.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooBlue.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Jewel/GoldNecklace.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Jewel/SilverRing.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/BodyPart/CyberneticOrgan.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooOrange.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentGreen.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentLime.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentRed.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooRed.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooTurquoise.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentBlue.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/TattooGreen.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/Pit.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Jewel/GoldRing.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Jewel/ClothBelt.png
+- Assets/Data/Mlie.EMTattoosAndPiercings/Textures/Things/Item/Pigments/PigmentReda.png
+Dependencies: []

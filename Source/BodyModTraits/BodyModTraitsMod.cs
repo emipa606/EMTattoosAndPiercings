@@ -7,7 +7,7 @@ namespace BodyModTraits;
 [StaticConstructorOnStartup]
 internal class BodyModTraitsMod : Mod
 {
-    public static BodyModTraitsMod instance;
+    public static BodyModTraitsMod Instance;
     private static string currentVersion;
 
     private BodyModTraitsSettings settings;
@@ -15,7 +15,7 @@ internal class BodyModTraitsMod : Mod
     public BodyModTraitsMod(ModContentPack content)
         : base(content)
     {
-        instance = this;
+        Instance = this;
         currentVersion =
             VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
@@ -24,14 +24,10 @@ internal class BodyModTraitsMod : Mod
     {
         get
         {
-            if (settings == null)
-            {
-                settings = GetSettings<BodyModTraitsSettings>();
-            }
+            settings ??= GetSettings<BodyModTraitsSettings>();
 
             return settings;
         }
-        set => settings = value;
     }
 
     public override string SettingsCategory()
@@ -60,6 +56,6 @@ internal class BodyModTraitsMod : Mod
     public override void WriteSettings()
     {
         base.WriteSettings();
-        Internal.updateHediffs();
+        Internal.UpdateHediffs();
     }
 }

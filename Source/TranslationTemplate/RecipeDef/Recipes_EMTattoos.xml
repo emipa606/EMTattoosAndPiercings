@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Design large insectoid tattoo -->
+  <MakeEMBloodBig.label>Design large insectoid tattoo</MakeEMBloodBig.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a design that increases blood pumping that is big enough to cover someones chest or back. -->
+  <MakeEMBloodBig.description>Prepare the pigments and materials ready tattooing a design that increases blood pumping that is big enough to cover someones chest or back.</MakeEMBloodBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMBloodBig.jobString>Preparing tattoo.</MakeEMBloodBig.jobString>
+  <!-- EN: Design medium insectoid tattoo -->
+  <MakeEMBloodMed.label>Design medium insectoid tattoo</MakeEMBloodMed.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a design that increases blood pumping that is big enough to cover an arm or leg. -->
+  <MakeEMBloodMed.description>Prepare the pigments and materials ready tattooing a design that increases blood pumping that is big enough to cover an arm or leg.</MakeEMBloodMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMBloodMed.jobString>Preparing tattoo.</MakeEMBloodMed.jobString>
+  <!-- EN: Design small insectoid tattoo -->
+  <MakeEMBloodSma.label>Design small insectoid tattoo</MakeEMBloodSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a design that increases blood pumping that is big enough to cover a hand or foot. -->
+  <MakeEMBloodSma.description>Prepare the pigments and materials ready for tattooing a design that increases blood pumping that is big enough to cover a hand or foot.</MakeEMBloodSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMBloodSma.jobString>Preparing tattoo.</MakeEMBloodSma.jobString>
+  <!-- EN: Design large muffalo tattoo -->
+  <MakeEMBreakBig.label>Design large muffalo tattoo</MakeEMBreakBig.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a mental break threshold increasing design that is big enough to cover someones chest or back. -->
+  <MakeEMBreakBig.description>Prepare the pigments and materials ready tattooing a mental break threshold increasing design that is big enough to cover someones chest or back.</MakeEMBreakBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMBreakBig.jobString>Preparing tattoo.</MakeEMBreakBig.jobString>
+  <!-- EN: Design medium muffalo tattoo -->
+  <MakeEMBreakMed.label>Design medium muffalo tattoo</MakeEMBreakMed.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a mental break threshold increasing design that is big enough to cover an arm or leg. -->
+  <MakeEMBreakMed.description>Prepare the pigments and materials ready tattooing a mental break threshold increasing design that is big enough to cover an arm or leg.</MakeEMBreakMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMBreakMed.jobString>Preparing tattoo.</MakeEMBreakMed.jobString>
+  <!-- EN: Design small muffalo tattoo -->
+  <MakeEMBreakSma.label>Design small muffalo tattoo</MakeEMBreakSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a mental break threshold increasing design that is big enough to cover a hand or foot. -->
+  <MakeEMBreakSma.description>Prepare the pigments and materials ready for tattooing a mental break threshold increasing design that is big enough to cover a hand or foot.</MakeEMBreakSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMBreakSma.jobString>Preparing tattoo.</MakeEMBreakSma.jobString>
+  <!-- EN: Design large mechanoid tattoo -->
+  <MakeEMConBig.label>Design large mechanoid tattoo</MakeEMConBig.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a consciousness enhancing design that is big enough to cover someones chest or back. -->
+  <MakeEMConBig.description>Prepare the pigments and materials ready for tattooing a consciousness enhancing design that is big enough to cover someones chest or back.</MakeEMConBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMConBig.jobString>Preparing tattoo.</MakeEMConBig.jobString>
+  <!-- EN: Design medium mechanoid tattoo -->
+  <MakeEMConMed.label>Design medium mechanoid tattoo</MakeEMConMed.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a consciousness enhancing design that is big enough to cover an arm or leg. -->
+  <MakeEMConMed.description>Prepare the pigments and materials ready for tattooing a consciousness enhancing design that is big enough to cover an arm or leg.</MakeEMConMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMConMed.jobString>Preparing tattoo.</MakeEMConMed.jobString>
+  <!-- EN: Design small mechanoid tattoo -->
+  <MakeEMConSma.label>Design small mechanoid tattoo</MakeEMConSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a consciousness enhancing design that is big enough to cover a hand or foot. -->
+  <MakeEMConSma.description>Prepare the pigments and materials ready for tattooing a consciousness enhancing design that is big enough to cover a hand or foot.</MakeEMConSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMConSma.jobString>Preparing tattoo.</MakeEMConSma.jobString>
+  <!-- EN: Design large monkey tattoo -->
+  <MakeEMManipBig.label>Design large monkey tattoo</MakeEMManipBig.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a manipulation enhancing design that is big enough to cover someones chest or back. -->
+  <MakeEMManipBig.description>Prepare the pigments and materials ready for tattooing a manipulation enhancing design that is big enough to cover someones chest or back.</MakeEMManipBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMManipBig.jobString>Preparing tattoo.</MakeEMManipBig.jobString>
+  <!-- EN: Design medium monkey tattoo -->
+  <MakeEMManipMed.label>Design medium monkey tattoo</MakeEMManipMed.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a manipulation enhancing design that is big enough to cover an arm or leg. -->
+  <MakeEMManipMed.description>Prepare the pigments and materials ready for tattooing a manipulation enhancing design that is big enough to cover an arm or leg.</MakeEMManipMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMManipMed.jobString>Preparing tattoo.</MakeEMManipMed.jobString>
+  <!-- EN: Design small monkey tattoo -->
+  <MakeEMManipSma.label>Design small monkey tattoo</MakeEMManipSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a manipulation enhancing design that is big enough to cover a hand or foot. -->
+  <MakeEMManipSma.description>Prepare the pigments and materials ready for tattooing a manipulation enhancing design that is big enough to cover a hand or foot.</MakeEMManipSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMManipSma.jobString>Preparing tattoo.</MakeEMManipSma.jobString>
+  <!-- EN: Design large rose tattoo -->
+  <MakeEMMeleeBig.label>Design large rose tattoo</MakeEMMeleeBig.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a design that increases melee ability that is big enough to cover someones chest or back. -->
+  <MakeEMMeleeBig.description>Prepare the pigments and materials ready tattooing a design that increases melee ability that is big enough to cover someones chest or back.</MakeEMMeleeBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMMeleeBig.jobString>Preparing tattoo.</MakeEMMeleeBig.jobString>
+  <!-- EN: Design medium rose tattoo -->
+  <MakeEMMeleeMed.label>Design medium rose tattoo</MakeEMMeleeMed.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a design that increases melee ability that is big enough to cover an arm or leg. -->
+  <MakeEMMeleeMed.description>Prepare the pigments and materials ready tattooing a design that increases melee ability that is big enough to cover an arm or leg.</MakeEMMeleeMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMMeleeMed.jobString>Preparing tattoo.</MakeEMMeleeMed.jobString>
+  <!-- EN: Design small rose tattoo -->
+  <MakeEMMeleeSma.label>Design small rose tattoo</MakeEMMeleeSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a design that increases melee ability that is big enough to cover a hand or foot. -->
+  <MakeEMMeleeSma.description>Prepare the pigments and materials ready for tattooing a design that increases melee ability that is big enough to cover a hand or foot.</MakeEMMeleeSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMMeleeSma.jobString>Preparing tattoo.</MakeEMMeleeSma.jobString>
+  <!-- EN: Design large thrumbo tattoo -->
+  <MakeEMPainBig.label>Design large thrumbo tattoo</MakeEMPainBig.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a pain reducing design that is big enough to cover someones chest or back. -->
+  <MakeEMPainBig.description>Prepare the pigments and materials ready for tattooing a pain reducing design that is big enough to cover someones chest or back.</MakeEMPainBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMPainBig.jobString>Preparing tattoo.</MakeEMPainBig.jobString>
+  <!-- EN: Design medium thrumbo tattoo -->
+  <MakeEMPainMed.label>Design medium thrumbo tattoo</MakeEMPainMed.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a pain reducing design that is big enough to cover an arm or leg. -->
+  <MakeEMPainMed.description>Prepare the pigments and materials ready for tattooing a pain reducing design that is big enough to cover an arm or leg.</MakeEMPainMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMPainMed.jobString>Preparing tattoo.</MakeEMPainMed.jobString>
+  <!-- EN: Design small thrumbo tattoo -->
+  <MakeEMPainSma.label>Design small thrumbo tattoo</MakeEMPainSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a pain reducing design that is big enough to cover a hand or foot. -->
+  <MakeEMPainSma.description>Prepare the pigments and materials ready for tattooing a pain reducing design that is big enough to cover a hand or foot.</MakeEMPainSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMPainSma.jobString>Preparing tattoo.</MakeEMPainSma.jobString>
+  <!-- EN: Design large sun tattoo -->
+  <MakeEMShootBig.label>Design large sun tattoo</MakeEMShootBig.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a design that increases shooting ability that is big enough to cover someones chest or back. -->
+  <MakeEMShootBig.description>Prepare the pigments and materials ready tattooing a design that increases shooting ability that is big enough to cover someones chest or back.</MakeEMShootBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMShootBig.jobString>Preparing tattoo.</MakeEMShootBig.jobString>
+  <!-- EN: Design medium sun tattoo -->
+  <MakeEMShootMed.label>Design medium sun tattoo</MakeEMShootMed.label>
+  <!-- EN: Prepare the pigments and materials ready tattooing a design that increases shooting ability that is big enough to cover an arm or leg. -->
+  <MakeEMShootMed.description>Prepare the pigments and materials ready tattooing a design that increases shooting ability that is big enough to cover an arm or leg.</MakeEMShootMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMShootMed.jobString>Preparing tattoo.</MakeEMShootMed.jobString>
+  <!-- EN: Design small sun tattoo -->
+  <MakeEMShootSma.label>Design small sun tattoo</MakeEMShootSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a design that increases shooting ability that is big enough to cover a hand or foot. -->
+  <MakeEMShootSma.description>Prepare the pigments and materials ready for tattooing a design that increases shooting ability that is big enough to cover a hand or foot.</MakeEMShootSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMShootSma.jobString>Preparing tattoo.</MakeEMShootSma.jobString>
+  <!-- EN: Design large cobra tattoo -->
+  <MakeEMSpeedBig.label>Design large cobra tattoo</MakeEMSpeedBig.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a speed enhancing design that is big enough to cover someones chest or back. -->
+  <MakeEMSpeedBig.description>Prepare the pigments and materials ready for tattooing a speed enhancing design that is big enough to cover someones chest or back.</MakeEMSpeedBig.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMSpeedBig.jobString>Preparing tattoo.</MakeEMSpeedBig.jobString>
+  <!-- EN: Design medium cobra tattoo -->
+  <MakeEMSpeedMed.label>Design medium cobra tattoo</MakeEMSpeedMed.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a speed enhancing design that is big enough to cover an arm or leg. -->
+  <MakeEMSpeedMed.description>Prepare the pigments and materials ready for tattooing a speed enhancing design that is big enough to cover an arm or leg.</MakeEMSpeedMed.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMSpeedMed.jobString>Preparing tattoo.</MakeEMSpeedMed.jobString>
+  <!-- EN: Design small cobra tattoo -->
+  <MakeEMSpeedSma.label>Design small cobra tattoo</MakeEMSpeedSma.label>
+  <!-- EN: Prepare the pigments and materials ready for tattooing a speed enhancing design that is big enough to cover a hand or foot. -->
+  <MakeEMSpeedSma.description>Prepare the pigments and materials ready for tattooing a speed enhancing design that is big enough to cover a hand or foot.</MakeEMSpeedSma.description>
+  <!-- EN: Preparing tattoo. -->
+  <MakeEMSpeedSma.jobString>Preparing tattoo.</MakeEMSpeedSma.jobString>
+</LanguageData>

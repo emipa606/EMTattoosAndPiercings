@@ -10,6 +10,7 @@
     <li>1.3</li>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
@@ -19,13 +20,15 @@
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Moshs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1325853932
-
-- Added traits for body-mod enthusiast and body-mod purist
+[list]
+[*] Added traits for body-mod enthusiast and body-mod purist
   These are also compatible with the Scarification-mod 
   https://steamcommunity.com/sharedfiles/filedetails/?id=2031643134
-- Only surgeries that have available materials are now shown in the operations-menu
-- Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
-- Added alternate recipes using resources from various other mods, see preview for details. Thanks Hydromancerx!
+[*] Only surgeries that have available materials are now shown in the operations-menu
+[*] Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
+[*] Added alternate recipes using resources from various other mods, see preview for details. Thanks Hydromancerx!
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3294815408]Russian Translation[/url] by tzverg
+[/list]
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
@@ -71,8 +74,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1342138383
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2030227116][img]https://img.shields.io/github/v/release/emipa606/EMTattoosAndPiercings?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2030227116][img]https://img.shields.io/github/v/release/emipa606/EMTattoosAndPiercings?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  piercings</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
 </ModMetaData>

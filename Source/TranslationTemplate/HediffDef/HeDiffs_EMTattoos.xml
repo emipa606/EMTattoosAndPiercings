@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Insectoid tattoo (large) -->
+  <EMBldBig.label>Insectoid tattoo (large)</EMBldBig.label>
+  <!-- EN: Insectoid tattoo (large) -->
+  <EMBldBig.description>Insectoid tattoo (large)</EMBldBig.description>
+  <!-- EN: healing -->
+  <EMBldBig.stages.healing.label>healing</EMBldBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMBldBig.stages.fresh.label>fresh</EMBldBig.stages.fresh.label>
+  <!-- EN: Insectoid tattoo (medium) -->
+  <EMBldMed.label>Insectoid tattoo (medium)</EMBldMed.label>
+  <!-- EN: Insectoid tattoo (medium) -->
+  <EMBldMed.description>Insectoid tattoo (medium)</EMBldMed.description>
+  <!-- EN: healing -->
+  <EMBldMed.stages.healing.label>healing</EMBldMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMBldMed.stages.fresh.label>fresh</EMBldMed.stages.fresh.label>
+  <!-- EN: Insectoid tattoo (small) -->
+  <EMBldSma.label>Insectoid tattoo (small)</EMBldSma.label>
+  <!-- EN: Insectoid tattoo (small) -->
+  <EMBldSma.description>Insectoid tattoo (small)</EMBldSma.description>
+  <!-- EN: healing -->
+  <EMBldSma.stages.healing.label>healing</EMBldSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMBldSma.stages.fresh.label>fresh</EMBldSma.stages.fresh.label>
+  <!-- EN: Mechanoid tattoo (large) -->
+  <EMConBig.label>Mechanoid tattoo (large)</EMConBig.label>
+  <!-- EN: Mechanoid tattoo (large) -->
+  <EMConBig.description>Mechanoid tattoo (large)</EMConBig.description>
+  <!-- EN: healing -->
+  <EMConBig.stages.healing.label>healing</EMConBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMConBig.stages.fresh.label>fresh</EMConBig.stages.fresh.label>
+  <!-- EN: Mechanoid tattoo (medium) -->
+  <EMConMed.label>Mechanoid tattoo (medium)</EMConMed.label>
+  <!-- EN: Mechanoid tattoo (medium) -->
+  <EMConMed.description>Mechanoid tattoo (medium)</EMConMed.description>
+  <!-- EN: healing -->
+  <EMConMed.stages.healing.label>healing</EMConMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMConMed.stages.fresh.label>fresh</EMConMed.stages.fresh.label>
+  <!-- EN: Mechanoid tattoo (small) -->
+  <EMConSma.label>Mechanoid tattoo (small)</EMConSma.label>
+  <!-- EN: Mechanoid tattoo (small) -->
+  <EMConSma.description>Mechanoid tattoo (small)</EMConSma.description>
+  <!-- EN: healing -->
+  <EMConSma.stages.healing.label>healing</EMConSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMConSma.stages.fresh.label>fresh</EMConSma.stages.fresh.label>
+  <!-- EN: Monkey tattoo (large) -->
+  <EMManipBig.label>Monkey tattoo (large)</EMManipBig.label>
+  <!-- EN: Monkey tattoo (large) -->
+  <EMManipBig.description>Monkey tattoo (large)</EMManipBig.description>
+  <!-- EN: healing -->
+  <EMManipBig.stages.healing.label>healing</EMManipBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMManipBig.stages.fresh.label>fresh</EMManipBig.stages.fresh.label>
+  <!-- EN: Monkey tattoo (medium) -->
+  <EMManipMed.label>Monkey tattoo (medium)</EMManipMed.label>
+  <!-- EN: Monkey tattoo (medium) -->
+  <EMManipMed.description>Monkey tattoo (medium)</EMManipMed.description>
+  <!-- EN: healing -->
+  <EMManipMed.stages.healing.label>healing</EMManipMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMManipMed.stages.fresh.label>fresh</EMManipMed.stages.fresh.label>
+  <!-- EN: Monkey tattoo (small) -->
+  <EMManipSma.label>Monkey tattoo (small)</EMManipSma.label>
+  <!-- EN: Monkey tattoo (small) -->
+  <EMManipSma.description>Monkey tattoo (small)</EMManipSma.description>
+  <!-- EN: healing -->
+  <EMManipSma.stages.healing.label>healing</EMManipSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMManipSma.stages.fresh.label>fresh</EMManipSma.stages.fresh.label>
+  <!-- EN: Rose tattoo (large) -->
+  <EMMelBig.label>Rose tattoo (large)</EMMelBig.label>
+  <!-- EN: Rose tattoo (large) -->
+  <EMMelBig.description>Rose tattoo (large)</EMMelBig.description>
+  <!-- EN: healing -->
+  <EMMelBig.stages.healing.label>healing</EMMelBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMMelBig.stages.fresh.label>fresh</EMMelBig.stages.fresh.label>
+  <!-- EN: Rose tattoo (medium) -->
+  <EMMelMed.label>Rose tattoo (medium)</EMMelMed.label>
+  <!-- EN: Rose tattoo (medium) -->
+  <EMMelMed.description>Rose tattoo (medium)</EMMelMed.description>
+  <!-- EN: healing -->
+  <EMMelMed.stages.healing.label>healing</EMMelMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMMelMed.stages.fresh.label>fresh</EMMelMed.stages.fresh.label>
+  <!-- EN: Rose tattoo (small) -->
+  <EMMelSma.label>Rose tattoo (small)</EMMelSma.label>
+  <!-- EN: Rose tattoo (small) -->
+  <EMMelSma.description>Rose tattoo (small)</EMMelSma.description>
+  <!-- EN: healing -->
+  <EMMelSma.stages.healing.label>healing</EMMelSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMMelSma.stages.fresh.label>fresh</EMMelSma.stages.fresh.label>
+  <!-- EN: Muffalo tattoo (large) -->
+  <EMMenBig.label>Muffalo tattoo (large)</EMMenBig.label>
+  <!-- EN: Muffalo tattoo (large) -->
+  <EMMenBig.description>Muffalo tattoo (large)</EMMenBig.description>
+  <!-- EN: healing -->
+  <EMMenBig.stages.healing.label>healing</EMMenBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMMenBig.stages.fresh.label>fresh</EMMenBig.stages.fresh.label>
+  <!-- EN: Muffalo tattoo (medium) -->
+  <EMMenMed.label>Muffalo tattoo (medium)</EMMenMed.label>
+  <!-- EN: Muffalo tattoo (medium) -->
+  <EMMenMed.description>Muffalo tattoo (medium)</EMMenMed.description>
+  <!-- EN: healing -->
+  <EMMenMed.stages.healing.label>healing</EMMenMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMMenMed.stages.fresh.label>fresh</EMMenMed.stages.fresh.label>
+  <!-- EN: Muffalo tattoo (small) -->
+  <EMMenSma.label>Muffalo tattoo (small)</EMMenSma.label>
+  <!-- EN: Muffalo tattoo (small) -->
+  <EMMenSma.description>Muffalo tattoo (small)</EMMenSma.description>
+  <!-- EN: healing -->
+  <EMMenSma.stages.healing.label>healing</EMMenSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMMenSma.stages.fresh.label>fresh</EMMenSma.stages.fresh.label>
+  <!-- EN: Thrumbo tattoo (large) -->
+  <EMPainBig.label>Thrumbo tattoo (large)</EMPainBig.label>
+  <!-- EN: Thrumbo tattoo (large) -->
+  <EMPainBig.description>Thrumbo tattoo (large)</EMPainBig.description>
+  <!-- EN: healing -->
+  <EMPainBig.stages.healing.label>healing</EMPainBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMPainBig.stages.fresh.label>fresh</EMPainBig.stages.fresh.label>
+  <!-- EN: Thrumbo tattoo (medium) -->
+  <EMPainMed.label>Thrumbo tattoo (medium)</EMPainMed.label>
+  <!-- EN: Thrumbo tattoo (medium) -->
+  <EMPainMed.description>Thrumbo tattoo (medium)</EMPainMed.description>
+  <!-- EN: healing -->
+  <EMPainMed.stages.healing.label>healing</EMPainMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMPainMed.stages.fresh.label>fresh</EMPainMed.stages.fresh.label>
+  <!-- EN: Thrumbo tattoo (small) -->
+  <EMPainSma.label>Thrumbo tattoo (small)</EMPainSma.label>
+  <!-- EN: Thrumbo tattoo (small) -->
+  <EMPainSma.description>Thrumbo tattoo (small)</EMPainSma.description>
+  <!-- EN: healing -->
+  <EMPainSma.stages.healing.label>healing</EMPainSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMPainSma.stages.fresh.label>fresh</EMPainSma.stages.fresh.label>
+  <!-- EN: Sun tattoo (large) -->
+  <EMShtBig.label>Sun tattoo (large)</EMShtBig.label>
+  <!-- EN: Sun tattoo (large) -->
+  <EMShtBig.description>Sun tattoo (large)</EMShtBig.description>
+  <!-- EN: healing -->
+  <EMShtBig.stages.healing.label>healing</EMShtBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMShtBig.stages.fresh.label>fresh</EMShtBig.stages.fresh.label>
+  <!-- EN: Sun tattoo (medium) -->
+  <EMShtMed.label>Sun tattoo (medium)</EMShtMed.label>
+  <!-- EN: Sun tattoo (medium) -->
+  <EMShtMed.description>Sun tattoo (medium)</EMShtMed.description>
+  <!-- EN: healing -->
+  <EMShtMed.stages.healing.label>healing</EMShtMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMShtMed.stages.fresh.label>fresh</EMShtMed.stages.fresh.label>
+  <!-- EN: Sun tattoo (small) -->
+  <EMShtSma.label>Sun tattoo (small)</EMShtSma.label>
+  <!-- EN: Sun tattoo (small) -->
+  <EMShtSma.description>Sun tattoo (small)</EMShtSma.description>
+  <!-- EN: healing -->
+  <EMShtSma.stages.healing.label>healing</EMShtSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMShtSma.stages.fresh.label>fresh</EMShtSma.stages.fresh.label>
+  <!-- EN: Cobra tattoo (large) -->
+  <EMSpeedBig.label>Cobra tattoo (large)</EMSpeedBig.label>
+  <!-- EN: Cobra tattoo (large) -->
+  <EMSpeedBig.description>Cobra tattoo (large)</EMSpeedBig.description>
+  <!-- EN: healing -->
+  <EMSpeedBig.stages.healing.label>healing</EMSpeedBig.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMSpeedBig.stages.fresh.label>fresh</EMSpeedBig.stages.fresh.label>
+  <!-- EN: Cobra tattoo (medium) -->
+  <EMSpeedMed.label>Cobra tattoo (medium)</EMSpeedMed.label>
+  <!-- EN: Cobra tattoo (medium) -->
+  <EMSpeedMed.description>Cobra tattoo (medium)</EMSpeedMed.description>
+  <!-- EN: healing -->
+  <EMSpeedMed.stages.healing.label>healing</EMSpeedMed.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMSpeedMed.stages.fresh.label>fresh</EMSpeedMed.stages.fresh.label>
+  <!-- EN: Cobra tattoo (small) -->
+  <EMSpeedSma.label>Cobra tattoo (small)</EMSpeedSma.label>
+  <!-- EN: Cobra tattoo (small) -->
+  <EMSpeedSma.description>Cobra tattoo (small)</EMSpeedSma.description>
+  <!-- EN: healing -->
+  <EMSpeedSma.stages.healing.label>healing</EMSpeedSma.stages.healing.label>
+  <!-- EN: fresh -->
+  <EMSpeedSma.stages.fresh.label>fresh</EMSpeedSma.stages.fresh.label>
+</LanguageData>

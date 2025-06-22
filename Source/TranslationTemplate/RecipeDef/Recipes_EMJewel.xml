@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Craft simple belt -->
+  <MakeEMFabBelt.label>Craft simple belt</MakeEMFabBelt.label>
+  <!-- EN: Create a simple belt. -->
+  <MakeEMFabBelt.description>Create a simple belt.</MakeEMFabBelt.description>
+  <!-- EN: Weaving simple belt -->
+  <MakeEMFabBelt.jobString>Weaving simple belt</MakeEMFabBelt.jobString>
+  <!-- EN: Craft gold earring -->
+  <MakeEMGolEar.label>Craft gold earring</MakeEMGolEar.label>
+  <!-- EN: Create a crude gold hoop earring for piercing. -->
+  <MakeEMGolEar.description>Create a crude gold hoop earring for piercing.</MakeEMGolEar.description>
+  <!-- EN: Making earring -->
+  <MakeEMGolEar.jobString>Making earring</MakeEMGolEar.jobString>
+  <!-- EN: Craft gold nose ring -->
+  <MakeEMGolNose.label>Craft gold nose ring</MakeEMGolNose.label>
+  <!-- EN: Create a crude gold nose ring for piercing. -->
+  <MakeEMGolNose.description>Create a crude gold nose ring for piercing.</MakeEMGolNose.description>
+  <!-- EN: Making nose ring -->
+  <MakeEMGolNose.jobString>Making nose ring</MakeEMGolNose.jobString>
+  <!-- EN: Craft silver studded belt -->
+  <MakeEMSilBelt.label>Craft silver studded belt</MakeEMSilBelt.label>
+  <!-- EN: Create a silver studded belt. -->
+  <MakeEMSilBelt.description>Create a silver studded belt.</MakeEMSilBelt.description>
+  <!-- EN: Weaving silver studded belt -->
+  <MakeEMSilBelt.jobString>Weaving silver studded belt</MakeEMSilBelt.jobString>
+  <!-- EN: Craft silver earring -->
+  <MakeEMSilEar.label>Craft silver earring</MakeEMSilEar.label>
+  <!-- EN: Create a crude silver hoop earring for piercing. -->
+  <MakeEMSilEar.description>Create a crude silver hoop earring for piercing.</MakeEMSilEar.description>
+  <!-- EN: Making earring -->
+  <MakeEMSilEar.jobString>Making earring</MakeEMSilEar.jobString>
+  <!-- EN: Craft silver nose ring -->
+  <MakeEMSilNose.label>Craft silver nose ring</MakeEMSilNose.label>
+  <!-- EN: Create a crude silver nose ring for piercing. -->
+  <MakeEMSilNose.description>Create a crude silver nose ring for piercing.</MakeEMSilNose.description>
+  <!-- EN: Making nose ring -->
+  <MakeEMSilNose.jobString>Making nose ring</MakeEMSilNose.jobString>
+</LanguageData>

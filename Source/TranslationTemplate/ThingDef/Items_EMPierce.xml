@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gold hoop earring -->
+  <I_EMGolEar.label>Gold hoop earring</I_EMGolEar.label>
+  <!-- EN: A crude but beautiful gold hoop earring. -->
+  <I_EMGolEar.description>A crude but beautiful gold hoop earring.</I_EMGolEar.description>
+  <!-- EN: Gold nose ring -->
+  <I_EMGolNose.label>Gold nose ring</I_EMGolNose.label>
+  <!-- EN: A crude but beautiful gold nose ring. -->
+  <I_EMGolNose.description>A crude but beautiful gold nose ring.</I_EMGolNose.description>
+  <!-- EN: Silver hoop earring -->
+  <I_EMSilEar.label>Silver hoop earring</I_EMSilEar.label>
+  <!-- EN: A crude silver hoop earring, nice to look at and has anti-bacterial properties. -->
+  <I_EMSilEar.description>A crude silver hoop earring, nice to look at and has anti-bacterial properties.</I_EMSilEar.description>
+  <!-- EN: Silver nose ring -->
+  <I_EMSilNose.label>Silver nose ring</I_EMSilNose.label>
+  <!-- EN: A crude silver nose ring, nice to look at and has anti-bacterial properties. -->
+  <I_EMSilNose.description>A crude silver nose ring, nice to look at and has anti-bacterial properties.</I_EMSilNose.description>
+</LanguageData>

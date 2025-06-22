@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cord belt -->
+  <I_EMClothBelt.label>cord belt</I_EMClothBelt.label>
+  <!-- EN: A simple cord belt. -->
+  <I_EMClothBelt.description>A simple cord belt.</I_EMClothBelt.description>
+  <!-- EN: gold necklace -->
+  <I_EMGoldNeck.label>gold necklace</I_EMGoldNeck.label>
+  <!-- EN: A braided gold necklace. An impressive addition to anyones wardrobe. -->
+  <I_EMGoldNeck.description>A braided gold necklace. An impressive addition to anyones wardrobe.</I_EMGoldNeck.description>
+  <!-- EN: silver studded belt -->
+  <I_EMSilverBelt.label>silver studded belt</I_EMSilverBelt.label>
+  <!-- EN: A silver studded belt. -->
+  <I_EMSilverBelt.description>A silver studded belt.</I_EMSilverBelt.description>
+  <!-- EN: silver necklace -->
+  <I_EMSilverNeck.label>silver necklace</I_EMSilverNeck.label>
+  <!-- EN: A braided silver necklace. Has anti-bacterial properties. -->
+  <I_EMSilverNeck.description>A braided silver necklace. Has anti-bacterial properties.</I_EMSilverNeck.description>
+</LanguageData>

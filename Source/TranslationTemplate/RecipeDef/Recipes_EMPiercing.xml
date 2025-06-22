@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gold ear piercing -->
+  <InstallEMGolEar.label>Gold ear piercing</InstallEMGolEar.label>
+  <!-- EN: Pierce ear with gold hoop -->
+  <InstallEMGolEar.description>Pierce ear with gold hoop</InstallEMGolEar.description>
+  <!-- EN: Piercing ear -->
+  <InstallEMGolEar.jobString>Piercing ear</InstallEMGolEar.jobString>
+  <!-- EN: Gold nose piercing -->
+  <InstallEMGolNose.label>Gold nose piercing</InstallEMGolNose.label>
+  <!-- EN: Pierce nose with gold nose ring -->
+  <InstallEMGolNose.description>Pierce nose with gold nose ring</InstallEMGolNose.description>
+  <!-- EN: Piercing nose -->
+  <InstallEMGolNose.jobString>Piercing nose</InstallEMGolNose.jobString>
+  <!-- EN: Silver ear piercing -->
+  <InstallEMSilEar.label>Silver ear piercing</InstallEMSilEar.label>
+  <!-- EN: Pierce ear with silver hoop -->
+  <InstallEMSilEar.description>Pierce ear with silver hoop</InstallEMSilEar.description>
+  <!-- EN: Piercing ear -->
+  <InstallEMSilEar.jobString>Piercing ear</InstallEMSilEar.jobString>
+  <!-- EN: Silver nose piercing -->
+  <InstallEMSilNose.label>Silver nose piercing</InstallEMSilNose.label>
+  <!-- EN: Pierce nose with silver nose ring -->
+  <InstallEMSilNose.description>Pierce nose with silver nose ring</InstallEMSilNose.description>
+  <!-- EN: Piercing ear -->
+  <InstallEMSilNose.jobString>Piercing ear</InstallEMSilNose.jobString>
+</LanguageData>

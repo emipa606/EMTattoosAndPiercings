@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Gold hoop earring -->
+  <EMGolEarStat.label>Gold hoop earring</EMGolEarStat.label>
+  <!-- EN: Gold hoop earring -->
+  <EMGolEarStat.description>Gold hoop earring</EMGolEarStat.description>
+  <!-- EN: Gold nose ring -->
+  <EMGolNoseStat.label>Gold nose ring</EMGolNoseStat.label>
+  <!-- EN: Gold nose ring -->
+  <EMGolNoseStat.description>Gold nose ring</EMGolNoseStat.description>
+  <!-- EN: Silver hoop earring -->
+  <EMSilEarStat.label>Silver hoop earring</EMSilEarStat.label>
+  <!-- EN: Silver hoop earring -->
+  <EMSilEarStat.description>Silver hoop earring</EMSilEarStat.description>
+  <!-- EN: Silver nose ring -->
+  <EMSilNoseStat.label>Silver nose ring</EMSilNoseStat.label>
+  <!-- EN: Silver nose ring -->
+  <EMSilNoseStat.description>Silver nose ring</EMSilNoseStat.description>
+</LanguageData>
