@@ -311,7 +311,7 @@
   <ThingDef ParentName="BodyPartArtificialBase_EM">
     <defName>I_EMMeleeSma</defName>
     <label>Tattoo kit (rose - small)</label>
-    <description>A set of carefully prepared inks and templates used to tattoo the design of a rose, there is enough here for a small tattoo on the neck, hand or foot. This design increases melee ability and a little. It is also a nice tattoo to look at.</description>
+    <description>A set of carefully prepared inks and templates used to tattoo the design of a rose, there is enough here for a small tattoo on the neck, hand or foot. This design increases melee ability a little. It's design also make socialising easier.</description>
     <graphicData>
       <texPath>Things/Item/Pigments/TattooPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -326,7 +326,7 @@
   <ThingDef ParentName="BodyPartArtificialBase_EM">
     <defName>I_EMMeleeMed</defName>
     <label>Tattoo kit (rose - medium)</label>
-    <description>A set of carefully prepared inks and templates used to tattoo the design of a rose, there is enough here for a sizeable tattoo on an arm or leg. This design increases melee ability by a modest amount. It is also a nice tattoo to look at.</description>
+    <description>A set of carefully prepared inks and templates used to tattoo the design of a rose, there is enough here for a sizeable tattoo on an arm or leg. This design increases melee ability by a modest amount. It's design also make socialising easier.</description>
     <graphicData>
       <texPath>Things/Item/Pigments/TattooPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -341,7 +341,7 @@
   <ThingDef ParentName="BodyPartArtificialBase_EM">
     <defName>I_EMMeleeBig</defName>
     <label>Tattoo kit (rose - large)</label>
-    <description>A set of carefully prepared inks and templates used to tattoo the design of a rose, there is enough here for a large tattoo on someones chest or back. This design increases melee ability by a sizeable amount. It is also a nice tattoo to look at.</description>
+    <description>A set of carefully prepared inks and templates used to tattoo the design of a rose, there is enough here for a large tattoo on someones chest or back. This design increases melee ability by a sizeable amount.  It's design also make socialising easier.</description>
     <graphicData>
       <texPath>Things/Item/Pigments/TattooPurple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
