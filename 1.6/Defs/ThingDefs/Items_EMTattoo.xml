@@ -357,7 +357,7 @@
   <ThingDef ParentName="BodyPartArtificialBase_EM">
     <defName>I_EMShootSma</defName>
     <label>Tattoo kit (sun - small)</label>
-    <description>A set of carefully prepared inks and templates used to tattoo the design of a sun, there is enough here for a small tattoo on the neck, hand or foot. This design increases shooting ability and charisma a little.</description>
+    <description>A set of carefully prepared inks and templates used to tattoo the design of a sun, there is enough here for a small tattoo on the neck, hand or foot. This design increases shooting ability and charisma a little. It will also reduce work speed a little.</description>
     <graphicData>
       <texPath>Things/Item/Pigments/TattooOrange</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -372,7 +372,7 @@
   <ThingDef ParentName="BodyPartArtificialBase_EM">
     <defName>I_EMShootMed</defName>
     <label>Tattoo kit (sun - medium)</label>
-    <description>A set of carefully prepared inks and templates used to tattoo the design of a sun, there is enough here for a sizeable tattoo on an arm or leg. This design increases shooting ability and charisma by a modest amount.</description>
+    <description>A set of carefully prepared inks and templates used to tattoo the design of a sun, there is enough here for a sizeable tattoo on an arm or leg. This design increases shooting ability and charisma by a modest amount. It will also reduce work speed a little.</description>
     <graphicData>
       <texPath>Things/Item/Pigments/TattooOrange</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -387,7 +387,7 @@
   <ThingDef ParentName="BodyPartArtificialBase_EM">
     <defName>I_EMShootBig</defName>
     <label>Tattoo kit (sun - large)</label>
-    <description>A set of carefully prepared inks and templates used to tattoo the design of a sun, there is enough here for a large tattoo on someones chest or back. This design increases shooting ability and charisma by a sizeable amount.</description>
+    <description>A set of carefully prepared inks and templates used to tattoo the design of a sun, there is enough here for a large tattoo on someones chest or back. This design increases shooting ability and charisma by a sizeable amount. It will also reduce work speed a little.</description>
     <graphicData>
       <texPath>Things/Item/Pigments/TattooOrange</texPath>
       <graphicClass>Graphic_Single</graphicClass>
