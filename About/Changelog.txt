@@ -1,5 +1,8 @@
 # Changelog for EMTattoosAndPiercings
 
+1.6.2 - Fixed wrong author name
+
+
 1.6.1 - Updated item descriptions, via Maalunar
 
 

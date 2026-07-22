@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>EM Tattoos and Piercings (Continued)</name>
   <packageId>Mlie.EMTattoosAndPiercings</packageId>
-  <author>Mlie</author>
+  <author>Mosh</author>
   <url>https://github.com/emipa606/EMTattoosAndPiercings</url>
   <supportedVersions>
     <li>1.1</li>
@@ -76,6 +76,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1342138383
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2030227116][img]https://img.shields.io/github/v/release/emipa606/EMTattoosAndPiercings?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: piercings</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2030227116][img]https://img.shields.io/github/v/release/emipa606/EMTattoosAndPiercings?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: jewelry crafting, tribal aesthetics</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.2</modVersion>
 </ModMetaData>

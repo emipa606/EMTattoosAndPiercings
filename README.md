@@ -54,4 +54,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1342138383
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/EMTattoosAndPiercings?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2030227116) | tags: piercings
+[![Image](https://img.shields.io/github/v/release/emipa606/EMTattoosAndPiercings?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2030227116) | tags: jewelry crafting, tribal aesthetics
