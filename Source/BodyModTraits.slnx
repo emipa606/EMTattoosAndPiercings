@@ -3,4 +3,51 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="BodyModTraits/BodyModTraits.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs/">
+    <File Path="../1.7/Defs/ThingDefs/Building_Pigment.xml" />
+    <File Path="../1.7/Defs/ThingDefs/Items_EMJewel.xml" />
+    <File Path="../1.7/Defs/ThingDefs/Items_EMPierce.xml" />
+    <File Path="../1.7/Defs/ThingDefs/Items_EMPigments.xml" />
+    <File Path="../1.7/Defs/ThingDefs/Items_EMTattoo.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingCategoryDefs/">
+    <File Path="../1.7/Defs/ThingCategoryDefs/ThingCategories.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/HeDiffDefs/">
+    <File Path="../1.7/Defs/HeDiffDefs/HeDiffs_EMJewel.xml" />
+    <File Path="../1.7/Defs/HeDiffDefs/HeDiffs_EMTattoos.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ResearchProjectDefs/">
+    <File Path="../1.7/Defs/ResearchProjectDefs/TattoosProject.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/">
+    <File Path="../Patches/AlphaAnimals.xml" />
+    <File Path="../Patches/AnimaGear.xml" />
+    <File Path="../Patches/Apini.xml" />
+    <File Path="../Patches/Biotech.xml" />
+    <File Path="../Patches/patches.xml" />
+    <File Path="../Patches/Spriggan.xml" />
+    <File Path="../Patches/Squiddle.xml" />
+    <File Path="../Patches/Televanni.xml" />
+    <File Path="../Patches/VFE-Classical.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/WorkGiverDefs/">
+    <File Path="../1.7/Defs/WorkGiverDefs/EMTPWorkGivers.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RecipeDefs/">
+    <File Path="../1.7/Defs/RecipeDefs/Recipes_EMJewel.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/Recipes_EMPiercing.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/Recipes_EMPigments.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/Recipes_EMSurgery.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/Recipes_EMTattoos.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Keys.xml" />
+  </Folder>
 </Solution>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Added body parts -->
+  <HediffDef Name="JewelBase_EM" Abstract="True">
+    <hediffClass>Hediff_Implant</hediffClass>
+    <isBad>false</isBad>
+    <priceImpact>true</priceImpact>
+    <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+    <allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
+    <tags>
+      <li>Piercing</li>
+    </tags>
+    <addedPartProps>
+      <partEfficiency>1.0</partEfficiency>
+    </addedPartProps>
+  </HediffDef>
+  <!-- earrings -->
+  <HediffDef ParentName="JewelBase_EM">
+    <defName>EMSilEarStat</defName>
+    <label>Silver hoop earring</label>
+    <description>Silver hoop earring</description>
+    <spawnThingOnRemoved>I_EMSilEar</spawnThingOnRemoved>
+    <defaultLabelColor>(0.7, 0.7, 0.7)</defaultLabelColor>
+    <stages>
+      <li>
+        <statOffsets>
+          <SocialImpact>0.02</SocialImpact>
+          <ImmunityGainSpeed>+0.02</ImmunityGainSpeed>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef ParentName="JewelBase_EM">
+    <defName>EMGolEarStat</defName>
+    <label>Gold hoop earring</label>
+    <description>Gold hoop earring</description>
+    <spawnThingOnRemoved>I_EMGolEar</spawnThingOnRemoved>
+    <defaultLabelColor>(0.9, 0.9, 0.2)</defaultLabelColor>
+    <stages>
+      <li>
+        <statOffsets>
+          <SocialImpact>0.04</SocialImpact>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <!-- nose rings -->
+  <HediffDef ParentName="JewelBase_EM">
+    <defName>EMSilNoseStat</defName>
+    <label>Silver nose ring</label>
+    <description>Silver nose ring</description>
+    <spawnThingOnRemoved>I_EMSilNose</spawnThingOnRemoved>
+    <defaultLabelColor>(0.7, 0.7, 0.7)</defaultLabelColor>
+    <stages>
+      <li>
+        <statOffsets>
+          <SocialImpact>0.03</SocialImpact>
+          <ImmunityGainSpeed>+0.03</ImmunityGainSpeed>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef ParentName="JewelBase_EM">
+    <defName>EMGolNoseStat</defName>
+    <label>Gold nose ring</label>
+    <description>Gold nose ring</description>
+    <spawnThingOnRemoved>I_EMGolNose</spawnThingOnRemoved>
+    <defaultLabelColor>(0.9, 0.9, 0.2)</defaultLabelColor>
+    <stages>
+      <li>
+        <statOffsets>
+          <SocialImpact>0.04</SocialImpact>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

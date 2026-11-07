@@ -10,8 +10,6 @@ internal class BodyModTraitsMod : Mod
     public static BodyModTraitsMod Instance;
     private static string currentVersion;
 
-    private BodyModTraitsSettings settings;
-
     public BodyModTraitsMod(ModContentPack content)
         : base(content)
     {
@@ -24,9 +22,9 @@ internal class BodyModTraitsMod : Mod
     {
         get
         {
-            settings ??= GetSettings<BodyModTraitsSettings>();
+            field ??= GetSettings<BodyModTraitsSettings>();
 
-            return settings;
+            return field;
         }
     }
 
@@ -35,10 +33,10 @@ internal class BodyModTraitsMod : Mod
         return "Scarification";
     }
 
-    public override void DoSettingsWindowContents(Rect rect)
+    public override void DoSettingsWindowContents(Rect inRect)
     {
         var listing_Standard = new Listing_Standard();
-        listing_Standard.Begin(rect);
+        listing_Standard.Begin(inRect);
         listing_Standard.Gap();
         listing_Standard.CheckboxLabeled("EMTP_CountAsBad".Translate(), ref Settings.IsBad,
             "EMTP_CountAsBad_Tooltip".Translate());
